@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["layout/cita.scss"],"names":[],"mappings":"AAEI,sBACI,kBAGJ,4CAEI","file":"layout/cita.css","sourcesContent":["\r\n.seccion {\r\n    .text-center {\r\n        text-align: center;\r\n    }\r\n\r\n    &:nth-child(2),\r\n    &:nth-child(3){\r\n        display: none;\r\n    }\r\n}"]}
